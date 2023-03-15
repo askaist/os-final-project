@@ -1,0 +1,5 @@
+1. create master server code
+
+2. create two slaves
+
+3. create multithreaded client
